@@ -1,0 +1,1 @@
+api = "https://api-dziennik.dziennik-szkola.ct8.pl/token"
