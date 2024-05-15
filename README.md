@@ -5,7 +5,8 @@
 
 ## Zalogowany użytkownik
 <img src="images/zalogowano.png" width="400px">
-
-IDE: PyCharm
-Biblioteki: requests, tk, http.cookiejar
-Importowałem biblioteki requests
+<br>
+<br>
+IDE: <b>PyCharm</b>
+Biblioteki: <b>requests, tk, http.cookiejar</b> <br>
+Importowałem biblioteki: <b>requests</b>
