@@ -7,6 +7,6 @@
 <img src="images/zalogowano.png" width="400px">
 <br>
 <br>
-IDE: <b>PyCharm</b>
+IDE: <b>PyCharm</b> <br>
 Biblioteki: <b>requests, tk, http.cookiejar</b> <br>
 Importowałem biblioteki: <b>requests</b>
