@@ -9,4 +9,3 @@
 <br>
 IDE: <b>PyCharm</b> <br>
 Biblioteki: <b>requests, tk, http.cookiejar</b> <br>
-Importowałem biblioteki: <b>requests</b>
